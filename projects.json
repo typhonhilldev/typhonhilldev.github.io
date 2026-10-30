@@ -1,0 +1,7 @@
+[
+  {
+    "name": "adder",
+    "description": "Write the pattern once. adder generates and maintains the repeated pieces of a Go repository.",
+    "packages": ["", "cmd/adder"]
+  }
+]
